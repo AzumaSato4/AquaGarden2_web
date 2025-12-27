@@ -1,1 +1,1 @@
-https://azumasato4.github.io/AquaGarden_web_test/
+https://azumasato4.github.io/AquaGarden2_web/
